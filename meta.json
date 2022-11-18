@@ -94,7 +94,7 @@
   "heads": [
     {
       "name": "pricecsv",
-      "version": "0.6.1",
+      "version": "0.7.1",
       "author": "Thiago Navarro",
       "desc": "Easily calculate the total of all products in csv",
       "license": "gpl-3.0",
